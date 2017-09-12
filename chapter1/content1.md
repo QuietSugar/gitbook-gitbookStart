@@ -12,5 +12,9 @@
 * 进入书籍：SETTINGS-----》》GitHub-----》》select a Repository-----&gt;&gt;点击Sysc进行同步，有可能会同步失败，可以选择以github或者gitbook为准进行强制同步（根据实际情况选择）
 * 完成，两边完成同步。
 
+参考资料：
+[gitbook使用教程（与github关联）](http://blog.csdn.net/snail_ren/article/details/53318564)
+[gitbook入门详解](https://m.aliyun.com/yunqi/articles/64766)
+
 
 
